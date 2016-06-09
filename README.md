@@ -1,4 +1,4 @@
-# learning-react
+# Learning React
 
 ## Introduction
 
